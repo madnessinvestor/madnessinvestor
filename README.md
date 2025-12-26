@@ -1,9 +1,12 @@
 ## 👋 Hey everyone, how’s it going?
 
 I’m **madnessinvestor**, also known as **eMadness**.  
+
 I’m a **beginner builder** and **crypto content creator**, passionate about learning and building projects — all of them are available here on GitHub.
+
 Furthermore, I create content about **cryptocurrencies in general**. I started my journey with **Ethereum mining back in 2016**. After the transition from **Proof of Work (PoW) to Proof of Stake (PoS)**, I left my GPUs behind and ventured deeper into the **crypto market and the Web3 ecosystem**.
-I’m currently exploring development, automation, and personal projects, always improving a little with every commit 🚀
+
+I am currently exploring Web 3 as a whole, innovating new projects, building dApps, and learning more and more. 🚀
 
 ---
 
