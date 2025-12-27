@@ -24,6 +24,10 @@ I am currently exploring Web 3 as a whole, innovating new projects, building dAp
 
 ## 🧩 Projects created so far on Arc Network (testnet)
 
+### 🎰 Arc Lottery Faucet
+https://arclotteryfaucet--madnessinvestor.replit.app/
+Spin the Roulette wheel and win USDC on the Arc testnet.
+
 ### 🔁 GojoSwap  
 https://gojoswap.up.railway.app/  
 A simple **token swap interface**, created to experiment with decentralized exchange concepts and on-chain interactions.
