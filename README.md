@@ -57,9 +57,9 @@ A tool to **mint Soulbound Tokens (SBTs)**, designed for identity, credentials, 
 
 ## 🧩 Projects in ** DEVELOPMENT ** on Arc Network (testnet)
 
-### 🎰 ArcLotteryFaucet  
-A **lottery-style faucet** that combines a visual **roulette interface** with an on-chain smart contract on Arc (testnet)
-Users interact with a roulette UI to receive tokens, creating a more engaging and gamified faucet experience while maintaining full blockchain integration.
+### 👾 PolyDoom Arc 🕹️
+A Space Invaders-style game where a square hero fights waves of enemies to prevent them from invading Earth.
+Each wave grows harder, and only mastery of abilities ensures survival.
 
 ### 💬 Arc ChatBox  
 A **chat box feature integrated into the Arc ecosystem**, designed to enable communication between users directly within the platform on Arc (testnet).
