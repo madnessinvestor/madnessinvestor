@@ -24,6 +24,11 @@ I am currently exploring Web 3 as a whole, innovating new projects, building dAp
 
 ## 🧩 Projects created so far on Arc Network (testnet)
 
+### 👾 PolyDoom Arc 🕹️
+https://polydoomarc.up.railway.app/
+A Space Invaders-style game where a square hero fights waves of enemies to prevent them from invading Earth.
+Each wave grows harder, and only mastery of abilities ensures survival.
+
 ### 🎰 Arc Lottery Faucet
 https://arclotteryfaucet--madnessinvestor.replit.app/
 Spin the Roulette wheel and win USDC on the Arc testnet.
@@ -57,9 +62,7 @@ A tool to **mint Soulbound Tokens (SBTs)**, designed for identity, credentials, 
 
 ## 🧩 Projects in ** DEVELOPMENT ** on Arc Network (testnet)
 
-### 👾 PolyDoom Arc 🕹️
-A Space Invaders-style game where a square hero fights waves of enemies to prevent them from invading Earth.
-Each wave grows harder, and only mastery of abilities ensures survival.
+
 
 ### 💬 Arc ChatBox  
 A **chat box feature integrated into the Arc ecosystem**, designed to enable communication between users directly within the platform on Arc (testnet).
