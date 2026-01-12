@@ -30,7 +30,8 @@ A Space Invaders-style game where a square hero fights waves of enemies to preve
 Each wave grows harder, and only mastery of abilities ensures survival.
 
 ### 🎰 Arc Lottery Faucet
-https://arclotteryfaucet--madnessinvestor.replit.app/
+https://arclotteryfaucet--madnessinvestor.replit.app
+https://arclottery.up.railway.app
 Spin the Roulette wheel and win USDC on the Arc testnet.
 
 ### 🔁 GojoSwap  
