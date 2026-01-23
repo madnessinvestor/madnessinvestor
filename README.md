@@ -34,9 +34,9 @@ https://arclotteryfaucet--madnessinvestor.replit.app
 https://arclottery.up.railway.app
 Spin the Roulette wheel and win USDC on the Arc testnet.
 
-### 🔁 GojoSwap  
-https://gojoswap.up.railway.app/  
-A simple **token swap interface**, created to experiment with decentralized exchange concepts and on-chain interactions.
+### 🔁 GojoSwapAI  
+https://gswapai.up.railway.app/
+A simple **token swap interface**, created to experiment with decentralized exchange concepts and on-chain interactions. With GojoSwapAI you can perform transactions via direct commands to AI. 
 
 ### 📊 ArcDashboard  
 https://arcdashboard.up.railway.app/  
