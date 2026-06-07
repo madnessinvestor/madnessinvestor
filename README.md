@@ -28,6 +28,7 @@ MadTrade is a personal trading management application designed to track and orga
 Using transaction hashes, the platform allows users to register, monitor, and manage their trading activity in a structured and efficient way. MadTrade provides local data storage, Excel export capabilities, and a simple yet informative dashboard that helps users track key performance metrics such as profits, losses, and overall trading performance.
 The goal is to give traders full control over their operations while maintaining a clear and reliable trading history for analysis and decision-making.
 This project is actively under development, with new features and improvements being added regularly.
+https://github.com/madnessinvestor/madtrade
 
 Madfolio is a portfolio management platform designed to provide a unified view of both cryptocurrency and traditional market investments.
 The project aims to consolidate assets from multiple sources, including blockchain wallets and investment accounts, allowing users to monitor their entire portfolio from a single interface. While public APIs in the crypto ecosystem can often be limited, unreliable, or expensive, several integrations have already been implemented to automate portfolio tracking and asset synchronization.
