@@ -36,7 +36,7 @@ This project is currently under development, with a strong focus on expanding in
 
 ## 🧩 Projects created so far on Arc Network (testnet)
 
-### 👾 PolyDoom Arc 🕹️
+### 👾 PolyDoom Arc 🕹️- Currently offline due to hosting costs
 https://polydoomarc.up.railway.app/
 A Space Invaders-style game where a square hero fights waves of enemies to prevent them from invading Earth.
 Each wave grows harder, and only mastery of abilities ensures survival.
@@ -61,20 +61,15 @@ A project focused on **mining-related logic and simulations**, built to explore 
 https://arcrevoke.up.railway.app/  
 A **token approval revocation tool**, allowing users to revoke smart contract permissions and improve wallet security.
 
-### 💬 ArcMessage  
-https://messagearc-onchain.up.railway.app/  
-
+### 💬 ArcMessage - Offline
 An **on-chain messaging application**, enabling users to send and store messages directly on the blockchain.
 
-### 🪪 ArcMintSBT  
-https://mintsbtarc-onchain.up.railway.app/  
+### 🪪 ArcMintSBT - Offline
 A tool to **mint Soulbound Tokens (SBTs)**, designed for identity, credentials, or non-transferable on-chain records.
 
 ---
 
 ## 🧩 Projects in ** DEVELOPMENT ** on Arc Network (testnet)
-
-
 
 ### 💬 Arc ChatBox  
 A **chat box feature integrated into the Arc ecosystem**, designed to enable communication between users directly within the platform on Arc (testnet).
