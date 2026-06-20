@@ -38,7 +38,7 @@ This project is currently under development, with a strong focus on expanding in
 ## 🧩 Projects created so far on Arc Network (testnet)
 
 ### 👾 PolyDoom Arc 🕹️- Currently offline due to hosting costs
-https://polydoomarc.up.railway.app/
+https://polydoomarc--madnessinvestor.replit.app/
 A Space Invaders-style game where a square hero fights waves of enemies to prevent them from invading Earth.
 Each wave grows harder, and only mastery of abilities ensures survival.
 
