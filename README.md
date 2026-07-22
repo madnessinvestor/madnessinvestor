@@ -70,11 +70,9 @@ A tool to **mint Soulbound Tokens (SBTs)**, designed for identity, credentials, 
 
 ---
 
-## 🧩 Projects in ** DEVELOPMENT ** on Arc Network (testnet)
+## 🧩 Projects in ** DEVELOPMENT **
 
-### 💬 Arc ChatBox  
-A **chat box feature integrated into the Arc ecosystem**, designed to enable communication between users directly within the platform on Arc (testnet).
-Built to explore real-time interaction concepts alongside Web3 applications.
+### MadTrade, MadTrack or CryptoAIO, Madfolio, FocusAIO
 
 ---
 
