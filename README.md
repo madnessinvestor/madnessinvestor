@@ -64,12 +64,6 @@ A tool to **mint Soulbound Tokens (SBTs)**, designed for identity, credentials, 
 
 ---
 
-## 🧩 Projects in ** DEVELOPMENT **
-
-### MadTrade, MadTrack or CryptoAIO, Madfolio, FocusAIO
-
----
-
 📌 Feel free to explore the projects, test the apps, and follow the journey!
 
 
